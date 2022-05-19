@@ -1,7 +1,7 @@
 # Wizard News (Part 1)
 
 ### Context and Goals
-We've seen how Node.js enables JavaScript to interact with the computer. Express helps our Node application respond to HTTP requests. Let's apply these tools to create something consumer-focused: a simple Reddit/Hacker news clone. This project will dive deep into Express features.
+We've seen how Node.js enables JavaScript to interact with the computer. Express helps our Node application respond to HTTP requests. Let's apply these tools to create something consumer-focused: a simple Reddit/Hacker News clone. This project will dive deep into Express features.
 
 ### We will build:
 1. A homepage similar to [Hacker News](https://news.ycombinator.com/), that lists all posts.
